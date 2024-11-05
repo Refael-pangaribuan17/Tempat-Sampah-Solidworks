@@ -1,3 +1,2 @@
-#Solidwork
-SolidWorks adalah perangkat lunak Computer-Aided Design (CAD) yang digunakan untuk membuat model 3D dan desain teknik. 
-SolidWorks dikembangkan oleh Dassault Systèmes dan populer di kalangan insinyur dan desainer untuk mendesain komponen mekanik, mesin, produk, dan bahkan perakitan yang kompleks.
+SolidWorks Project
+Welcome to the SolidWorks Project repository! This repository is dedicated to CAD models, assemblies, and engineering simulations created using SolidWorks. SolidWorks is a powerful CAD software used for 3D modeling, simulation, and technical documentation, widely applied in industries like automotive, aerospace, manufacturing, and product design.
